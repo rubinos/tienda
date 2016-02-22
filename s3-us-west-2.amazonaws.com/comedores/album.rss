@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>comedor</title>
+   	<link>.</link>
+        <generator>jAlbum 13</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>20151119_192844</title>
+            <link>slides/20151119_192844.html</link>
+            <pubDate>Sat, 20 Feb 2016 01:23:13 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/20151119_192844.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/20151119_192844.jpg" width="450" height="600"/>
+            <guid isPermaLink="false">slides/20151119_192844.jpg</guid>
+        </item>
+        <item>
+            <title>20160218_161714</title>
+            <link>slides/20160218_161714.html</link>
+            <pubDate>Sat, 20 Feb 2016 01:23:13 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/20160218_161714.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/20160218_161714.jpg" width="450" height="600"/>
+            <guid isPermaLink="false">slides/20160218_161714.jpg</guid>
+        </item>
+        <item>
+            <title>20141204_124018</title>
+            <link>slides/20141204_124018.html</link>
+            <pubDate>Sat, 20 Feb 2016 01:23:13 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/20141204_124018.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/20141204_124018.jpg" width="450" height="600"/>
+            <guid isPermaLink="false">slides/20141204_124018.jpg</guid>
+        </item>
+        <item>
+            <title>20141204_124208 (1)</title>
+            <link>slides/20141204_124208 (1).html</link>
+            <pubDate>Sat, 20 Feb 2016 01:23:13 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/20141204_124208 (1).jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/20141204_124208 (1).jpg" width="450" height="600"/>
+            <guid isPermaLink="false">slides/20141204_124208 (1).jpg</guid>
+        </item>
+        <item>
+            <title>20141212_190949</title>
+            <link>slides/20141212_190949.html</link>
+            <pubDate>Sat, 20 Feb 2016 01:23:13 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/20141212_190949.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/20141212_190949.jpg" width="450" height="600"/>
+            <guid isPermaLink="false">slides/20141212_190949.jpg</guid>
+        </item>
+        <item>
+            <title>20150717_102936</title>
+            <link>slides/20150717_102936.html</link>
+            <pubDate>Sat, 20 Feb 2016 01:23:13 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/20150717_102936.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/20150717_102936.jpg" width="450" height="600"/>
+            <guid isPermaLink="false">slides/20150717_102936.jpg</guid>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Moquetas y Sintasol</title>
+   	<link>..</link>
+        <generator>jAlbum 13</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>IMG_20160226_090705</title>
+            <link>slides/IMG_20160226_090705.html</link>
+            <pubDate>Fri, 26 Feb 2016 15:03:41 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_20160226_090705.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/IMG_20160226_090705.jpg" width="1067" height="600"/>
+            <guid isPermaLink="false">slides/IMG_20160226_090705.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_20160226_090752</title>
+            <link>slides/IMG_20160226_090752.html</link>
+            <pubDate>Fri, 26 Feb 2016 15:03:41 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_20160226_090752.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/IMG_20160226_090752.jpg" width="1067" height="600"/>
+            <guid isPermaLink="false">slides/IMG_20160226_090752.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_20160226_091056</title>
+            <link>slides/IMG_20160226_091056.html</link>
+            <pubDate>Fri, 26 Feb 2016 15:03:41 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_20160226_091056.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/IMG_20160226_091056.jpg" width="1067" height="600"/>
+            <guid isPermaLink="false">slides/IMG_20160226_091056.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_20160226_091016</title>
+            <link>slides/IMG_20160226_091016.html</link>
+            <pubDate>Fri, 26 Feb 2016 15:03:41 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_20160226_091016.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/IMG_20160226_091016.jpg" width="1067" height="600"/>
+            <guid isPermaLink="false">slides/IMG_20160226_091016.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_20160226_091156</title>
+            <link>slides/IMG_20160226_091156.html</link>
+            <pubDate>Fri, 26 Feb 2016 15:03:41 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_20160226_091156.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/IMG_20160226_091156.jpg" width="1067" height="600"/>
+            <guid isPermaLink="false">slides/IMG_20160226_091156.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_20160226_092445</title>
+            <link>slides/IMG_20160226_092445.html</link>
+            <pubDate>Fri, 26 Feb 2016 15:03:41 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_20160226_092445.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/IMG_20160226_092445.jpg" width="338" height="600"/>
+            <guid isPermaLink="false">slides/IMG_20160226_092445.jpg</guid>
+        </item>
+    </channel>
+</rss>

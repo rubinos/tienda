@@ -8,7 +8,7 @@
         <generator>jAlbum 13</generator>
    		<description></description>
         <jalbum:absolutePath></jalbum:absolutePath>
-    	<jalbum:link rel="sub" href="Alfombras/album.rss" title="Alfombras" thumbnail="Alfombras/thumbs/Screenshot_20160222-175115.jpg" thumbnailWidth="124" thumbnailHeight="124" />
+    	<jalbum:link rel="sub" href="Alfombras (Universal)/album.rss" title="Alfombras (Universal)" thumbnail="Alfombras (Universal)/thumbs/Screenshot_20160222-175115.jpg" thumbnailWidth="124" thumbnailHeight="124" />
     	<jalbum:link rel="sub" href="Moquetas y Sintasol/album.rss" title="Moquetas y Sintasol" thumbnail="Moquetas y Sintasol/thumbs/IMG_20160226_090705.jpg" thumbnailWidth="124" thumbnailHeight="124" />
         
     </channel>

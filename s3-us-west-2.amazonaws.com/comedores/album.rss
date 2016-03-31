@@ -9,9 +9,19 @@
    		<description></description>
         <jalbum:absolutePath></jalbum:absolutePath>
         <item>
+            <title>SDC14984</title>
+            <link>slides/SDC14984.html</link>
+            <pubDate>Thu, 31 Mar 2016 21:35:23 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/SDC14984.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/SDC14984.jpg" width="450" height="600"/>
+            <guid isPermaLink="false">slides/SDC14984.jpg</guid>
+        </item>
+        <item>
             <title>SDC14991</title>
             <link>slides/SDC14991.html</link>
-            <pubDate>Thu, 25 Feb 2016 15:43:05 +0100</pubDate>
+            <pubDate>Thu, 31 Mar 2016 21:35:23 +0200</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/SDC14991.jpg" width="124" height="124"/>
@@ -21,7 +31,7 @@
         <item>
             <title>SDC15332</title>
             <link>slides/SDC15332.html</link>
-            <pubDate>Thu, 25 Feb 2016 15:43:05 +0100</pubDate>
+            <pubDate>Thu, 31 Mar 2016 21:35:23 +0200</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/SDC15332.jpg" width="124" height="124"/>
@@ -31,7 +41,7 @@
         <item>
             <title>20141204_124018</title>
             <link>slides/20141204_124018.html</link>
-            <pubDate>Thu, 25 Feb 2016 15:43:05 +0100</pubDate>
+            <pubDate>Thu, 31 Mar 2016 21:35:23 +0200</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/20141204_124018.jpg" width="124" height="124"/>
@@ -41,7 +51,7 @@
         <item>
             <title>20141204_124208 (1)</title>
             <link>slides/20141204_124208 (1).html</link>
-            <pubDate>Thu, 25 Feb 2016 15:43:05 +0100</pubDate>
+            <pubDate>Thu, 31 Mar 2016 21:35:23 +0200</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/20141204_124208 (1).jpg" width="124" height="124"/>
@@ -51,7 +61,7 @@
         <item>
             <title>20151119_192844</title>
             <link>slides/20151119_192844.html</link>
-            <pubDate>Thu, 25 Feb 2016 15:43:05 +0100</pubDate>
+            <pubDate>Thu, 31 Mar 2016 21:35:23 +0200</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/20151119_192844.jpg" width="124" height="124"/>
@@ -59,9 +69,19 @@
             <guid isPermaLink="false">slides/20151119_192844.jpg</guid>
         </item>
         <item>
+            <title>IMG-20160303-WA0002</title>
+            <link>slides/IMG-20160303-WA0002.html</link>
+            <pubDate>Thu, 31 Mar 2016 21:35:23 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG-20160303-WA0002.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/IMG-20160303-WA0002.jpg" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG-20160303-WA0002.jpg</guid>
+        </item>
+        <item>
             <title>fotos cortinas 020</title>
             <link>slides/fotos cortinas 020.html</link>
-            <pubDate>Thu, 25 Feb 2016 15:43:05 +0100</pubDate>
+            <pubDate>Thu, 31 Mar 2016 21:35:23 +0200</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/fotos cortinas 020.jpg" width="124" height="124"/>
@@ -71,7 +91,7 @@
         <item>
             <title>IMG-20160224-WA0006</title>
             <link>slides/IMG-20160224-WA0006.html</link>
-            <pubDate>Thu, 25 Feb 2016 15:43:05 +0100</pubDate>
+            <pubDate>Thu, 31 Mar 2016 21:35:23 +0200</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/IMG-20160224-WA0006.jpg" width="124" height="124"/>
@@ -81,7 +101,7 @@
         <item>
             <title>mayo 047</title>
             <link>slides/mayo 047.html</link>
-            <pubDate>Thu, 25 Feb 2016 15:43:05 +0100</pubDate>
+            <pubDate>Thu, 31 Mar 2016 21:35:23 +0200</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/mayo 047.jpg" width="124" height="124"/>
@@ -91,7 +111,7 @@
         <item>
             <title>SDC10657</title>
             <link>slides/SDC10657.html</link>
-            <pubDate>Thu, 25 Feb 2016 15:43:05 +0100</pubDate>
+            <pubDate>Thu, 31 Mar 2016 21:35:23 +0200</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/SDC10657.jpg" width="124" height="124"/>
@@ -101,7 +121,7 @@
         <item>
             <title>SDC10861</title>
             <link>slides/SDC10861.html</link>
-            <pubDate>Thu, 25 Feb 2016 15:43:05 +0100</pubDate>
+            <pubDate>Thu, 31 Mar 2016 21:35:23 +0200</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/SDC10861.jpg" width="124" height="124"/>
@@ -111,7 +131,7 @@
         <item>
             <title>SDC11337</title>
             <link>slides/SDC11337.html</link>
-            <pubDate>Thu, 25 Feb 2016 15:43:05 +0100</pubDate>
+            <pubDate>Thu, 31 Mar 2016 21:35:23 +0200</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/SDC11337.jpg" width="124" height="124"/>
@@ -121,7 +141,7 @@
         <item>
             <title>SDC11345</title>
             <link>slides/SDC11345.html</link>
-            <pubDate>Thu, 25 Feb 2016 15:43:05 +0100</pubDate>
+            <pubDate>Thu, 31 Mar 2016 21:35:23 +0200</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/SDC11345.jpg" width="124" height="124"/>
@@ -131,7 +151,7 @@
         <item>
             <title>SDC11350</title>
             <link>slides/SDC11350.html</link>
-            <pubDate>Thu, 25 Feb 2016 15:43:05 +0100</pubDate>
+            <pubDate>Thu, 31 Mar 2016 21:35:23 +0200</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/SDC11350.jpg" width="124" height="124"/>
@@ -141,7 +161,7 @@
         <item>
             <title>SDC12686</title>
             <link>slides/SDC12686.html</link>
-            <pubDate>Thu, 25 Feb 2016 15:43:05 +0100</pubDate>
+            <pubDate>Thu, 31 Mar 2016 21:35:23 +0200</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/SDC12686.jpg" width="124" height="124"/>
@@ -151,7 +171,7 @@
         <item>
             <title>SDC12693</title>
             <link>slides/SDC12693.html</link>
-            <pubDate>Thu, 25 Feb 2016 15:43:05 +0100</pubDate>
+            <pubDate>Thu, 31 Mar 2016 21:35:23 +0200</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/SDC12693.jpg" width="124" height="124"/>
@@ -161,7 +181,7 @@
         <item>
             <title>SDC13360</title>
             <link>slides/SDC13360.html</link>
-            <pubDate>Thu, 25 Feb 2016 15:43:05 +0100</pubDate>
+            <pubDate>Thu, 31 Mar 2016 21:35:23 +0200</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/SDC13360.jpg" width="124" height="124"/>
@@ -171,22 +191,12 @@
         <item>
             <title>SDC14692</title>
             <link>slides/SDC14692.html</link>
-            <pubDate>Thu, 25 Feb 2016 15:43:05 +0100</pubDate>
+            <pubDate>Thu, 31 Mar 2016 21:35:23 +0200</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/SDC14692.jpg" width="124" height="124"/>
             <media:content type="image/jpeg" url="slides/SDC14692.jpg" width="450" height="600"/>
             <guid isPermaLink="false">slides/SDC14692.jpg</guid>
-        </item>
-        <item>
-            <title>SDC14984</title>
-            <link>slides/SDC14984.html</link>
-            <pubDate>Thu, 25 Feb 2016 15:43:05 +0100</pubDate>
-            <description></description>
-            <media:description type="html"></media:description>
-            <media:thumbnail url="thumbs/SDC14984.jpg" width="124" height="124"/>
-            <media:content type="image/jpeg" url="slides/SDC14984.jpg" width="450" height="600"/>
-            <guid isPermaLink="false">slides/SDC14984.jpg</guid>
         </item>
     </channel>
 </rss>

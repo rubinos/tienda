@@ -9,9 +9,19 @@
    		<description></description>
         <jalbum:absolutePath></jalbum:absolutePath>
         <item>
+            <title>SDC14987</title>
+            <link>slides/SDC14987.html</link>
+            <pubDate>Thu, 31 Mar 2016 21:38:21 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/SDC14987.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/SDC14987.jpg" width="450" height="600"/>
+            <guid isPermaLink="false">slides/SDC14987.jpg</guid>
+        </item>
+        <item>
             <title>SDC15306</title>
             <link>slides/SDC15306.html</link>
-            <pubDate>Thu, 25 Feb 2016 15:42:22 +0100</pubDate>
+            <pubDate>Thu, 31 Mar 2016 21:38:21 +0200</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/SDC15306.jpg" width="124" height="124"/>
@@ -21,7 +31,7 @@
         <item>
             <title>SDC15318</title>
             <link>slides/SDC15318.html</link>
-            <pubDate>Thu, 25 Feb 2016 15:42:22 +0100</pubDate>
+            <pubDate>Thu, 31 Mar 2016 21:38:21 +0200</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/SDC15318.jpg" width="124" height="124"/>
@@ -31,7 +41,7 @@
         <item>
             <title>28 de abril nevazo y comida con padres 005</title>
             <link>slides/28 de abril nevazo y comida con padres 005.html</link>
-            <pubDate>Thu, 25 Feb 2016 15:42:22 +0100</pubDate>
+            <pubDate>Thu, 31 Mar 2016 21:38:21 +0200</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/28 de abril nevazo y comida con padres 005.jpg" width="124" height="124"/>
@@ -41,7 +51,7 @@
         <item>
             <title>mayo 064</title>
             <link>slides/mayo 064.html</link>
-            <pubDate>Thu, 25 Feb 2016 15:42:22 +0100</pubDate>
+            <pubDate>Thu, 31 Mar 2016 21:38:21 +0200</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/mayo 064.jpg" width="124" height="124"/>
@@ -51,22 +61,12 @@
         <item>
             <title>SDC14970</title>
             <link>slides/SDC14970.html</link>
-            <pubDate>Thu, 25 Feb 2016 15:42:22 +0100</pubDate>
+            <pubDate>Thu, 31 Mar 2016 21:38:21 +0200</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/SDC14970.jpg" width="124" height="124"/>
             <media:content type="image/jpeg" url="slides/SDC14970.jpg" width="450" height="600"/>
             <guid isPermaLink="false">slides/SDC14970.jpg</guid>
-        </item>
-        <item>
-            <title>SDC14987</title>
-            <link>slides/SDC14987.html</link>
-            <pubDate>Thu, 25 Feb 2016 15:42:22 +0100</pubDate>
-            <description></description>
-            <media:description type="html"></media:description>
-            <media:thumbnail url="thumbs/SDC14987.jpg" width="124" height="124"/>
-            <media:content type="image/jpeg" url="slides/SDC14987.jpg" width="450" height="600"/>
-            <guid isPermaLink="false">slides/SDC14987.jpg</guid>
         </item>
     </channel>
 </rss>
